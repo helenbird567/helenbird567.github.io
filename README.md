@@ -34,7 +34,7 @@ Vacant property inspections involve regular checks on unoccupied properties to e
 
 Our Approach
 
-· Detailed and comprehensive reports 
+. Detailed and comprehensive reports 
 · Access to all reports through your online account 
 · All reports submitted within 24hr of the inspection
 · Ability to take digital signatures at point of check in 
@@ -51,28 +51,28 @@ Contact Us & PriceTerms and Conditions
 
 Moving into the ideal home is a huge step. As you’ll may know it can be very stressful and time consuming, particularly at a distance.  Home finding also known or referred to as Home Search with a relocation services can help to remove the strains on time and patience and turns home finding into something really exciting and enjoyable for you and your family.  
 
-Home Search Relocation Services 
+# Home Search Relocation Services 
 
 We offer a comprehensive range of property selection services for both purchases and rentals, private and corporate clients designed to balance family and business priorities seamlessly.
 
-Our extensive experience in the home search market ensures that both clients and employees benefit from our significant influence in the local markets.
+## Our extensive experience in the home search market ensures that both clients and employees benefit from our significant influence in the local markets.
 
 
-Desktop Research 
+## Desktop Research 
 For those working with smaller budgets, we offer a supplementary relocation service. We identify ideal properties and then compile a detailed report or viewing schedule for you to take away and explore independently. This service is perfect for clients or employees familiar with an area who need assistance with contacts and viewings.
 
-Orientation and Familiarisation Tours 
+## Orientation and Familiarisation Tours 
 We believe it is essential for employees and their families to gain a thorough understanding of their new environment as early as possible. We will discuss and establish all requirements, special needs, location and interests. We then tailor and arrange a personalised tour of the area accordingly to meet the individual clients needs. 
 
-Vacant Property Services 
+## Vacant Property Services 
 When a property becomes vacant, it's crucial to ensure it's properly cared for and maintained. We offer cost-effective property checks and inspections. We complete a comprehensive report during each inspection and forward it in the client within 48 hrs of inspection. Ensuring the property is always well-maintained and represented in the truest light 
 
 
-Inventory Services – Check in & Out 
+## Inventory Services – Check in & Out 
 At our check-ins, we produce a full inventory check in report that includes utility readings, smoke alarms, all property keys, cleanliness, a complete contents report, and photographic evidence of the property's condition before and after tenancy. At check-out, we cross-reference all listed items and photographic evidence to ensure the property and contents are left as per the approved and signed inventory.
 
 
-Fire Door Inspections 
+# Fire Door Inspections 
 
 One Bird are a professional and expertly at checking all fire doors to a high standard to ensure they are safe, compliant and effective against protecting the occupants against flames in the event of a fire.  Faulty fire door installations can have a devastating consequence.  We carry out comprehensive assessments that lead to issuing fire door safety certificate and fulfilling compliance needs. 
 
