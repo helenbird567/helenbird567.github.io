@@ -4,7 +4,7 @@ title:  "Services We Provide"
 date:   2024-06-11 12:47:25 +0100
 categories: jekyll update
 ---
-Tel: 07957 553 321
+Tel: 07920 729 097
 
 # Services We Provide
 
@@ -69,10 +69,10 @@ At our check-ins, we produce a full inventory check in report that includes util
 
 # Fire Door Inspections 
 
-One Bird are a professional and expertly at checking all fire doors to a high standard to ensure they are safe, compliant and effective against protecting the occupants against flames in the event of a fire.  Faulty fire door installations can have a devastating consequence.  We carry out comprehensive assessments that lead to issuing fire door safety certificate and fulfilling compliance needs. 
+At One Bird, we pride ourselves on being experts in fire door inspections, ensuring every door meets the highest standards of safety and compliance. Properly functioning fire doors are crucial in protecting occupants from the spread of flames during a fire, and faulty installations can have devastating consequences. Our comprehensive assessments result in the issuance of fire door safety certificates, meeting all compliance requirements.
 
-We provide a service with a detailed inventory and written maintenance inspection reports off all our fire and exit doors using our soft wear Doorcheck.  The report includes a full report outlining the defects and faults of your fire doors.   
+We offer a detailed inventory and written maintenance inspection reports for all our fire and exit doors using our Doorcheck software. Our reports include thorough details of any defects and faults found in your fire doors.
 
-In line with the Regulatory Reform Order (Fire Safety) 2005, the Responsible Person for the premises must ensure that the fire door and frame are correctly installed and will prevent the spread of fire.  The integrity of a fire door is also affected by the products and handwear attached to it, some of which are mandatory, and this must also be taken into consideration.  We are NAFDI qualified inspections will assess our fire doors for suitability and provide a clear report on what is and is not compliant.  
-Effective Fire Doors are a legal requirement for the majority of Domestic and non domestic premises.  
+In accordance with the Regulatory Reform (Fire Safety) Order 2005, the Responsible Person for the premises must ensure that fire doors and frames are correctly installed to prevent the spread of fire. The integrity of a fire door also depends on the products and hardware attached to it, some of which are mandatory. Our NAFDI-qualified inspectors will assess your fire doors for suitability and provide clear reports on compliance.
 
+Effective fire doors are a legal requirement for most domestic and non-domestic premises.
